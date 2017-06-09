@@ -3,73 +3,85 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: template.tex
-first: Lucy
-last: D'Agostino McGowan
-email: ld.mcgowan@vanderbilt.edu
-address: "2525 West End 11000 Nashville, TN 37203"
-website: "www.lucymcgowan.com"
-orcid: 0000-0001-7297-9359
-languages: proficient Italian literary, written, \& oral skills 
+first: Daloha
+last: RodriguezMolina
+email: daloha.rodriguez_molina@med.uni-muenchen.de
+address: "Am Hedernfeld 7, 81375 München"
+orcid: 0000-0002-5355-0474
+languages: Spanish (native), English (C2), German (C1), French (B1).
 programming: |
-  | **dev:** R **use:** R, SAS, Stata, Python, ArcGIS
-github: LucyMcGowan
-twitter: LucyStats
-attributes: "goal-driven leadership, advanced analytic skills, strategic thinking, resourceful team player, sunny disposition $\\Springtree$, public speaking, organizational & communication skills"
-interests: "propensity score analyses, `R` package development, observational study methods, predictive modeling, large-scale inference, [R-Ladies](https://rladies.org), engaging beginners in `R` package development with [rOpenSci](http://ropensci.org) through [`contributr`](https://github.com/LucyMcGowan/contributr), disparities research, community-based participatory research"
+  | **use:** R, SAS, SPSS, Python.
+github: darokun
+twitter: darokun
+attributes: "goal-driven leadership, resourceful team player, public speaking, organizational & communication skills"
+interests: "Epidemiology, reproducible research, open science, online teaching, causality methods, [R-Ladies](https://rladies.org), health and science communication, community-based participatory research"
 edu:
-  - {degree: PhD, where: Vanderbilt University , description_1: "Student in Biostatistics, GPA 3.95" }
-  - {degree: MS, where: Washington University School of Medicine, description_1: "in Biostatistics, December 2013, GPA 3.88 ", description_2: "Thesis: *Quantitative Assessment of the Community Research Fellows Training Program*"}
-  - {degree: BA, where: University of North Carolina at Chapel Hill, description_1: "with Distinction and Highest Honors", description_2: "Religious Studies: GPA 3.92 Romance Languages: GPA 3.86"}
+  - {degree: PhD candidate, where: Ludwig-Maximilians-Universität München, description_1: "Medical Research: Epidemiology and Public Health, 2017-present", description_2: "**Project:** *Antibiotic resistance in wastewater: Transmission risks in employees and residents around waste water treatment plants (AWARE-WWTP)*" }
+  - {degree: MSc, where: Ludwig-Maximilians-Universität München, description_1: "in Epidemiology, Fall 2016, Final grade: 1.71 (Highest: 1.00, Lowest: 4.00)", description_2: "**Thesis**: *Targeted Maximum Likelihood Estimation to Estimate the Effect of an Educational Intervention on the Knowledge about Preventive Measures against Occupational Asthma and Allergies in Bavarian Agriculture Apprentices: a Randomized Trial*"}
+  - {degree: MD, where: Universidad del Zulia, description_1: "final grade: 16.80/20.00"}
 work:
-  - {year: "March 2017-present", where: RStudio, what: upcoming internship under Jenny Bryan}
-  - {year: 2016-2017, where: Vanderbilt University, what: NIH Big Data to Knowledge Training Fellow}
-  - {year: 2015-2016, where: Vanderbilt University, what: "Research Assistant, Department of Biostatistics and VA Tennessee Valley"}
-  - {year: Summer 2015, where: Cleveland Clinic, what: "Graduate Fellow, Department of Quantitative Health Sciences"}
-  - {year: 2012-2014, where: Washington University School of Medicine, what: "Statistical Data Analyst promoted from Research Assistant, Department of Surgery, Division of Public Health Sciences"}
+  - {year: "2016-present", where: Institute and Outpatient Clinic for Occupational, Social and Environmental Medicine, Clinical Center of the Ludwig Maximilian University Munich, Germany, what: "Research Asistant."}
+  - {year: 2014-2016, where: Institute and Outpatient Clinic for Occupational, Social and Environmental Medicine, Clinical Centre of the Ludwig Maximilian University Munich, Germany, what: "Student Asistant, IntMOSH."}
+  - {year: Fall 2014, where: "Institute for Medical Informatics, Biometry and Epidemiology. Ludwig-Maximilians-University. Munich, Germany", what: "Teaching Assistant, R course"}
+  - {year: 2009-2014, where: Endocrine and Metabolic Diseases Research Center. University of Zulia. Maracaibo, Venezuela, what: "Research Assistant"}
+  - {year: 2012-2014, where: Global Salud, C.A. Maracaibo, Venezuela, what: "Occupational Health Physician"}
+  - {year: 2012-2014, where: Hospitalización Falcón, S.A. Maracaibo, Venezuela, what: "Emergency Department Physician"}
+  - {year: 2010-2011, where: Hospital I San Roque, what: "Rural Physician"}
 award:
-  - {year: 2016, name: "First Place, GSS Student Data Challenge, ASA Joint Statistical Meeting"}
-  - {year: 2016, name: "Second Place, SPAAC Poster Competition, ASA Joint Statistical Meeting"}
-  - {year: 2016, name: "Southern Startup Internship Program in Data Science (South BDHub)"}
-  - {year: 2015, name: "First Place, GSS Student Data Challenge, ASA Joint Statistical Meeting"}
-  - {year: 2013, name: "Best Contributed Paper in the Statistics and Data Analysis SAS Global Forum"}
-  - {year: 2013, name: "First Place, Student Research Competition, 141st APHA Annual Meeting"}
-  - {year: 2013, name: "Ellis R. Ott Scholarship: ASQ Statistics Division"}
-  - {year: 2012, name: "Gertrude M. Cox Scholarship for Women in Statistics Honorable Mention"}
-outreach: 
-  - {year: 2016-2017, name: "R-Ladies Nashville, co-founder"}
-  - {year: 2016-2017, name: "Vanderbilt Graduate Student Council, President"}
-  - {year: 2016-2017, name: "Vanderbilt Biostatistics Graduate Student Association, Vice President"}
-  - {year: 2016-2017, name: "Nashville ASA Student Chapter, Vice President"}
-  - {year: 2015-2017, name: "Tennessee Office of Refugees, Tutor"}
-  - {year: 2015, name: "Scholarship of Teaching and Learning, Scholar"}
-  - {year: 2014-2015, name: "Vanderbilt Graduate Student Council, VP of Social Affairs"}
+  - {year: 2017, name: "useR Diversity Scholarship"}
+  - {year: 2016, name: "First Place, ASPHER's Young Researchers' Forum, European Public Health Conference"}
+  - {year: 2015, name: "Dr. Democh Maurmeier Scholarship"}
+  - {year: 2008, name: "Fundayacucho Scholarship"}
+outreach:
+  - {year: 2017, name: "[R-Ladies Munich](https://www.meetup.com/rladies-munich/), co-founder"}
+  - {year: 2011, name: "Student Society for the Promotion of the Endocrine and Metabolic Research, president"}
+  - {year: 2010, name: "Student Society for the Promotion of the Endocrine and Metabolic Research, publicity coordinator"}
 bibliography: my-papers.bib
 csl: apa.csl
-nocite: |
-  @DAgostinoMcGowan:2013ew, @Colditz:2014hh, @Griffey:2014fa, @DiggsAndrews:2014fb, @Fisher:2014jt,
-  @Kaphingst:2015kl, @McGowan:2015bt, @McGowan:2016ira, @Drake:2016ks, @Chen:2015ki
 ---
 
-# Select Invited Presentations
+# Select Presentations
 \vspace{-0.5cm}
 
-**SAS Global Forum 2016** \fn{Oral Presentation} 
+**Primer Simposio Internacional de Investigación en Salud y Seguridad en el Trabajo (LMU and UNC), Bogotá - Colombia, 2017** \fn{Oral Presentation} 
 
-> **Lucy D'Agostino McGowan**, Robert A. Greevy, Jr ["Integrating SAS and R to Perform Optimal Propensity Score Matching."](http://support.sas.com/resources/papers/proceedings16/11420-2016.pdf)
+> **Daloha Rodriguez-Molina**, Swaantje Barth, Ronald Herrera, Constanze Rossmann, Katja Radon, Veronika Karnowski, *"Efecto de una intervención educativa para mejorar el conocimiento de medidas preventivas contra asma y alergias ocupacionales utilizando TMLE."*
 
-**SAS Global Forum 2015** \fn{Oral Presentation}  
+**ASPHER's Young Researchers' Forum, European Public Health Conference, Vienna - Austria, 2016** \fn{Poster}  
 
-> **Lucy D'Agostino McGowan**, Alice Toll ["Using PROC SURVEYREG and PROC SURVEYLOGISTIC to Assess Potential Bias."](http://support.sas.com/resources/papers/proceedings15/3320-2015.pdf)
+> **Daloha Rodriguez-Molina**, Swaantje Barth, Ronald Herrera, Constanze Rossmann, Katja Radon, Veronika Karnowski, *"Targeted Maximum Likelihood Estimation to Estimate the Effect of an Educa		tional Intervention on the Knowledge about Preventive Measures against Occupational Asthma and 	Allergies in Bavarian Agriculture Apprentices: a Randomized Trial."*
 
-# Select Contributed Presentations
-\vspace{-0.5cm}
-**ENAR 2017** \fn{Oral Presentation}  
+**XXXI World 	Congress of Internal Medicine, Santiago - Chile, 2012** \fn{Poster}  
 
-> **Lucy D'Agostino McGowan**, Robert Alan Greevy, Jr, "Simplifying and Contextualizing Sensitivity to Unmeasured Confounding Tipping Point Analyses."
+> **D. Rodríguez-Molina**, E. Rojas, A. Ferrer, A. Espinoza, A. Figueras, D. Zumztein, L. Rincón. 		*“Prevalence of Metabolic Syndrome among adults in a rural community in Venezuela.”*
 
-**ASA Joint Statistical Meeting 2016** \fn{Poster} 
+**Society for Prevention Research, 20th Annual Meeting, Promoting Healthy Living Through Prevention Science, Washington, D.C. - USA, 2012** \fn{Poster} 
 
-> **Lucy D'Agostino McGowan**, Robert A. Greevy, Jr, "Practical Guidance and Tools for Rule-Out Sensitivity to Unmeasured Confounding Analyses."
+> **Daloha Rodríguez-Molina**, Edward Rojas, Judith Faría, Margiori Rodríguez, Ana Nava, Andrea 		Ochoa, *"Drinking patterns characterization in three communities of the Juana de Ávila parish, Maracaibo, Zulia State, Venezuela."*
+
+**I Congress, Latin American Society of Cardiometabolic Syndrome (LASCME), Maracaibo - Venezuela, 2011** \fn{Poster} 
+
+> **Rodríguez-Molina DV**, Rojas ER, Ferrer AJ, Espinoza AC, Figueras AJ, Zumztein DG, Rincón LE, *"Prevalence of Metabolic Syndrome in adults subjects in Pregonero, Uribante District, Táchira 	State, Venezuela."*
+
+**II Congress, Interamerican Society of Diabetes, Puerto La Cruz - Venezuela, 2011** \fn{Oral Presentation} 
+
+> **Daloha Rodríguez-Molina**, *"Tumor Necrosis Factor and Insulin Resistance."*
+
+**II Congress, Interamerican Society of Diabetes, Puerto La Cruz - Venezuela, 2011** \fn{Poster} 
+
+> **Rodríguez-Molina Daloha V.**, Parra V. María G., Ramos R. Nathacha C., Sánchez A. Deysirée 		C., Urribarrí C. Jesica C., Acosta N. Luis A., *"Alcohol consumption patterns in Maracaibo, Vene-		zuela."*
+
+**XIV Student Scientific Meeting “Dr. Herminio Rincón Carroz”. Faculty of Medicine. University of Zulia. Maracaibo - Venezuela, 2010** \fn{Oral Presentation} 
+
+> **Daloha Rodríguez-Molina**, *"Metabolic Syndrome and Adiposopathy."*
+
+**XIII Student Scientific Meeting “Dr. Herminio Rincón Carroz”. Faculty of Medicine. University of Zulia. Maracaibo - Venezuela, 2009** \fn{Oral Presentation} 
+
+> **Daloha Rodríguez-Molina**, *"Overview of the Immune System."*
+
+**V Scientific Meeting of the Physiology Extension Program. Faculty of Medicine. University of Zulia. Maracaibo - Venezuela, 2006** \fn{Oral Presentation} 
+
+> **Daloha Rodríguez-Molina**, Daniela Parra, *"Gene therapy for the Treatment of Cystic Fibrosis."*
 
 # Peer-reviewed Publications 
 \vspace{-0.5cm}
